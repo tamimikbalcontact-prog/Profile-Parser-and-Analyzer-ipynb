@@ -99,7 +99,7 @@ Outcomes: Identified 34 unique profile categories within the dataset (e.g., Medi
 Clone the repository:
 
 Bash
-git clone [https://github.com/tamimikbalcontact-prog/Analyzing-data-using-python.git](https://github.com/tamimikbalcontact-prog/Analyzing-data-using-python.git)
+git clone [https://github.com/tamimikbalcontact-prog/Analyzing-data-using-python.git](https://github.com/tamimikbalcontact-prog/Profile-Parser-and-Analyzer-ipynb)
 Navigate to the project directory and launch Jupyter:
 
 Bash
