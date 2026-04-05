@@ -99,15 +99,20 @@ Outcomes: Identified 34 unique profile categories within the dataset (e.g., Medi
 Clone the repository:
 
 Bash
-git clone [https://github.com/tamimikbalcontact-prog/Analyzing-data-using-python.git](https://github.com/tamimikbalcontact-prog/Profile-Parser-and-Analyzer-ipynb)
+```
+git clone https://github.com/tamimikbalcontact-prog/Profile-Parser-and-Analyzer-ipynb
+```
 Navigate to the project directory and launch Jupyter:
 
-Bash
+```Bash
 jupyter lab
+```
 Open and run the notebook:
 
 Plaintext
+```
 Open coders_of_bd.ipynb and execute the cells sequentially to parse the text data, generate data.json, and view the analysis outputs.
+```
 <h2><a class="anchor" id="future-scope"></a>Future Scope</h2>
 
 Implement visual charts (bar charts, scatter plots) using Matplotlib or Seaborn to visualize follower vs. following ratios.
